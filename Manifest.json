@@ -1,0 +1,26 @@
+{
+    "id": "com.Tamuro.keiyoushi",
+    "Name": "Keiyoushi",
+    "Version": "0.0.1",
+    "developer": "Tamuro",
+    "Type": "Manga",
+    "icon": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions@repo/icon/eu.kanade.tachiyomi.extension.all.elitebabes.png",
+    "Sources": [
+        {
+            "Name": "Atsumaru",
+            "BaseUrl": "https://Atsumaru.moe"
+        },
+        {
+            "Name": "Comix",
+            "BaseUrl": "https://Comix.to"
+        },
+        {
+            "Name": "Scansgg",
+            "BaseUrl": "https://scansgg.com"
+        },
+        {
+            "Name": "Webtoons",
+            "BaseUrl": "https://webtoons.com"
+        }
+    ]
+}
