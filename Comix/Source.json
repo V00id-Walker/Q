@@ -3,6 +3,6 @@
     "name": "Comix",
     "baseUrl": "https://Comix.to",
     "lang": "en",
-    "Icon": "icon.png",
+    "Icon": "https://raw.githubusercontent.com/V00id-Walker/Q/refs/heads/main/Comix/Icon.png",
     "Rating": "Safe"
 }

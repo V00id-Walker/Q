@@ -3,6 +3,6 @@
     "name": "Scansgg",
     "baseUrl": "https://Scansgg.com",
     "lang": "en",
-    "Icon": "icon.png",
+    "Icon": "https://raw.githubusercontent.com/V00id-Walker/Q/refs/heads/main/Scansgg/Icon.svg",
     "Rating": "Safe"
 }
