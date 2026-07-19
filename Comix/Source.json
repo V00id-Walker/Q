@@ -1,0 +1,14 @@
+{
+  "id": "to.comix.en",
+  "name": "Comix",
+  "baseUrl": "https://comix.to",
+  "lang": "en",
+  "Icon": "https://comix.to/assets/uploads/35595e3de3c99889c1bd2c56f3e3714fc0c457.png",
+  "Rating": "Adult",
+  "allowedHosts": [
+    "comix.to",
+    "comix.ws",
+    "static.comix.to",
+    "challenges.cloudflare.com"
+  ]
+}
